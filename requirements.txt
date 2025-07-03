@@ -9,3 +9,4 @@ duckduckgo_search
 tiktoken
 coloredlogs==15.0.1
 pytz==2024.1
+unidecode==1.3.7
